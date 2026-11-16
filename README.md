@@ -1,1 +1,1 @@
-# My-linguistics-pro
+# My-linguistics-project
